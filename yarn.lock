@@ -666,7 +666,7 @@ qs@6.11.0:
   dependencies:
     side-channel "^1.0.4"
 
-qs@^6.10.3:
+qs@^6.11.0:
   version "6.11.2"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.2.tgz#64bea51f12c1f5da1bc01496f48ffcff7c69d7d9"
   integrity sha512-tDNIz22aBzCDxLtVH++VnTfzxlfeK5CbqohpSqpJgj1Wg/cQbStNAz3NuqCs5vV+pjBsK4x4pN9HlVh7rcYRiA==
@@ -852,13 +852,13 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
-stripe@^8.169.0:
-  version "8.222.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-8.222.0.tgz#5f159156e411b668a88b8f957df5ac3c63b119de"
-  integrity sha512-hrA79fjmN2Eb6K3kxkDzU4ODeVGGjXQsuVaAPSUro6I9MM3X+BvIsVqdphm3BXWfimAGFvUqWtPtHy25mICY1w==
+stripe@^14.4.0:
+  version "14.4.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-14.4.0.tgz#f291fa1dc8d956d6f897bd8e9d01f40711c0f3b8"
+  integrity sha512-E3IxDo/Bvu0TtYrKfAf8lEYd0beTjFSN4xemuw2oEfUyxFpJyrzRZOw50HIEXFYYHWNDORicd8G8R4joCbN3/Q==
   dependencies:
     "@types/node" ">=8.1.0"
-    qs "^6.10.3"
+    qs "^6.11.0"
 
 supports-color@^5.5.0:
   version "5.5.0"
@@ -919,10 +919,10 @@ utils-merge@1.0.1:
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
   integrity sha512-pMZTvIkT1d+TFGvDOqodOclx0QWkkgi6Tdoa8gC8ffGAAqz9pzPTZWAybbsHHoED/ztMtkv/VoYTYyShUn81hA==
 
-uuid@^8.3.2:
-  version "8.3.2"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
-  integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
+uuid@^9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.1.tgz#e188d4c8853cc722220392c424cd637f32293f30"
+  integrity sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==
 
 vary@~1.1.2:
   version "1.1.2"
